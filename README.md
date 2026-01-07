@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**re4rmk/re4rmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+    <img width=300 src="./assets/main.gif"/>    
+    <br/>
+    <br/><img width="736" height="414" alt="blur_edges (3)" src="https://github.com/user-attachments/assets/dac710f2-10dc-4eb9-87bb-ad16490c0a2e" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ‎ 
+  ‎ 
+  <div align="center">
+  scar ‎‎  .ᐟ‎ ‎‎ ‎‎ ‎ ‎‎ ‎‎ ‎‎ ‎ 20 ‎‎ ‎‎ ‎ ‎‎ ‎‎ ‎‎ ‎ he/star
+
+‎ 
+‎ 
+  <div align="center">
+  c+h ! w2i
+
+  ‎ 
+  ‎ 
+  <div align="center">
+  visit rentry for more info!
