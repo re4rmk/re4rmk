@@ -1,9 +1,8 @@
 
 
-<div align="center">
-    <img width=300 src="./assets/main.gif"/>    
+<div align="center"> 
     <br/>
-    <br/><img width="736" height="414" alt="blur_edges (3)" src="https://github.com/user-attachments/assets/dac710f2-10dc-4eb9-87bb-ad16490c0a2e" />
+    <br/><img width="736" height="414" alt="blur_edges (3)" src="https://github.com/user-attachments/assets/9d4fec18-e9ab-4b83-9501-715f6ad10dea" />
 
   ‎ 
   ‎ 
